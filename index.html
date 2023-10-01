@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bluray</title>
+    <link rel="stylesheet" href="assignment.css">
+    <script src="https://unpkg.com/read-excel-file@5.x/bundle/read-excel-file.min.js"></script>
+</head>
+
+<body>
+
+    <h2>Take an File as an Input</h2>
+    <input type="file" name="input" id="input">
+
+    <script>
+        // Function to calculate the time difference in hours between two timestamps
+        function calculateTimeDifference(start, end) {
+            const startTime = new Date(`1970-01-01T${start}`);
+            const endTime = new Date(`1970-01-01T${end}`);
+            const timeDifferenceMs = endTime - startTime;
+            return timeDifferenceMs / 3600000; // Convert milliseconds to hours
+        }
+
+
+        const input = document.getElementById('input')
+        input.addEventListener('change', () => {
+            readXlsxFile(input.files[0]).then((rows) => {
+
+                for (let i = 0; i < rows.length; i++) {
+                    //console.log(rows[i]);
+                    const row = rows[i];
+                    const position = row[1]; console.log(position);
+                    const timeIn = row[2]; //console.log(timeIn);
+                    const timeOut = row[3]; //console.log(timeOut);
+                    console.log(row[7]);
+                    console.log(row[4])
+
+
+                    // a) who has worked for 7 consecutive days.
+                    // b) who have less than 10 hours of time between shifts but greater than 1 hour
+                    //  c) Who has worked for more than 14 hours in a single shift
+
+
+                    if (calculateTimeDifference(timeIn, timeOut) >= 7) {
+                        console.log(`Employee: ${row[7]}, Position: ${position} - worked for 7 consecutive days`);
+                    }
+
+                    const timeDifference = calculateTimeDifference(timeOut, row[4]);
+                    if (timeDifference > 1 && timeDifference < 10) {
+                        console.log(`Employee: ${row[7]}, Position: ${position} - has less than 10 hours between shifts`);
+                    }
+
+
+                    const timecardHours = parseFloat(row[4]); // Assuming timecard hours are in the fifth column (index 4)
+                    if (timecardHours > 14) {
+                        console.log(`Employee: ${row[7]}, Position: ${position} - worked for more than 14 hours in a single shift`);
+                    }
+
+                }
+
+            })
+        })
+
+
+    </script>
+
+
+</body>
+
+</html>
