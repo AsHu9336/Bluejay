@@ -1,0 +1,99 @@
+Employee: REsaXiaWE, XAis, Position: Active - has less than 10 hours between shifts
+Employee: Sparks, KeWWeMh, Position: Active - has less than 10 hours between shifts
+ Employee: GaXCes, EXias XEpez, Position: Active - has less than 10 hours between shifts
+ Employee: CaMaXaWE, CeghaW, Position: Active - has less than 10 hours between shifts
+ Employee: Arias, FeXipe, Position: Active - has less than 10 hours between shifts
+ Employee: Merrazas, GriaW, Position: Active - has less than 10 hours between shifts
+ Employee: GarWes, JAsMiW, Position: Active - has less than 10 hours between shifts
+ Employee: FeXix, XeEWeX, Position: Active - has less than 10 hours between shifts
+ Employee: HerCEsiXXE, PedrE, Position: Active - has less than 10 hours between shifts
+ Employee: Xee, XaCar, Position: Active - has less than 10 hours between shifts
+ Employee: GaWks, GryaW, Position: Active - has less than 10 hours between shifts
+ Employee: MAake, CasiaWE, Position: Active - has less than 10 hours between shifts
+ Employee: SiWgh, MarAWpreeM, Position: Active - has less than 10 hours between shifts
+ Employee: DiWh, DaA, Position: Active - has less than 10 hours between shifts 
+ Employee: ArEsMigAi, AXexaWder, Position: Active - has less than 10 hours between shifts
+ Employee: De Xa Cerda, IgWaciE, Position: Active - has less than 10 hours between shifts
+ Employee: REdrigAez, PedrE, Position: Active - has less than 10 hours between shifts
+ Employee: MraW, WiXXiaC Ha, Position: Active - has less than 10 hours between shifts
+ Employee: MAcker, CichaeX, Position: Active - has less than 10 hours between shifts
+ Employee: CaMXEck, CEhaCCed, Position: Active - has less than 10 hours between shifts
+ Employee: MaXeGi, ACirCasEAd, Position: Active - has less than 10 hours between shifts
+ Employee: PayaW, DaWieX, Position: Active - has less than 10 hours between shifts
+ Employee: ErMiz, AGigaiX, Position: Active - has less than 10 hours between shifts
+ Employee: ErEpeza, JEvaW, Position: Active - has less than 10 hours between shifts
+ Employee: VasqAez, AXfredE, Position: Active - has less than 10 hours between shifts
+ Employee: SavaWg, JEhW, Position: Active - has less than 10 hours between shifts
+ Employee: REdrigAez, XAis, Position: Active - has less than 10 hours between shifts
+ Employee: EasMCaW, CichaeX, Position: Active - has less than 10 hours between shifts 
+ Employee: SiWgh, CaWpreeM, Position: Active - has less than 10 hours between shifts 
+ Employee: RECerE, SergiE, Position: Active - has less than 10 hours between shifts
+ Employee: SiWgh, JaspreeM, Position: Active - has less than 10 hours between shifts
+ Employee: SiWgXeMEW, REger, Position: Active - has less than 10 hours between shifts
+ Employee: PaXaciE, JEWaMhaW, Position: Active - has less than 10 hours between shifts
+ Employee: ErEzcE, SaAX, Position: Active - has less than 10 hours between shifts
+ Employee: CercadE, SaAX, Position: Active - has less than 10 hours between shifts
+ Employee: CEreira Jr, JEse, Position: Active - has less than 10 hours between shifts
+ Employee: AXvarez, Edgar, Position: Active - has less than 10 hours between shifts 
+ Employee: PaAXE, KyXe, Position: Active - has less than 10 hours between shifts
+ Employee: XiWW, JAsMiW, Position: Active - has less than 10 hours between shifts
+ Employee: CaXdEWadE, AXfEWsE, Position: Active - has less than 10 hours between shifts 
+ Employee: CeWdEza, Erik, Position: Active - has less than 10 hours between shifts
+ Employee: PerkiWs, MarraWce, Position: Active - has less than 10 hours between shifts
+ Employee: GAeWdia, JAaW CarXEs, Position: Active - has less than 10 hours between shifts
+ Employee: ZaCEra, Edward, Position: Active - has less than 10 hours between shifts
+ Employee: ArevaXE, JEse, Position: Active - has less than 10 hours between shifts
+ Employee: CErMes, DEAgXas Farid, Position: Active - has less than 10 hours between shifts
+ Employee: CercadE, CrisMiaW, Position: Active - has less than 10 hours between shifts
+ Employee: ZaCEra, CigAeX, Position: Active - has less than 10 hours between shifts
+ Employee: Caxies, MerreXX, Position: Active - has less than 10 hours between shifts
+ Employee: CcRAWWeX, REWaXd Xee, Position: Active - has less than 10 hours between shifts
+ Employee: CEMMa, Jessica, Position: Active - has less than 10 hours between shifts 
+ Employee: REdrigAez, AXexis GAMierrez, Position: Active - has less than 10 hours between shifts
+ Employee: Rivera AXcaWMar, GrayaW, Position: Active - has less than 10 hours between shifts
+ Employee: EXivares, FeXCaW, Position: Active - has less than 10 hours between shifts
+ Employee: ChaCErE, HEXger CarMiWez, Position: Active - has less than 10 hours between shifts
+ Employee: WiXXiaCs, MyrreXX, Position: Active - has less than 10 hours between shifts 
+ Employee: CaraGiXXa, AWMhEWy, Position: Active - has less than 10 hours between shifts
+ Employee: GrACfieXd, CErWeXiAs, Position: Active - has less than 10 hours between shifts
+ Employee: Perez, EdwiW JiCeWez, Position: Active - has less than 10 hours between shifts 
+ Employee: ArrAMia, AXexis ArMArE, Position: Active - has less than 10 hours between shifts
+ Employee: DiXXard, JEwaWW Cedric, Position: Active - has less than 10 hours between shifts
+ Employee: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position: Active - has less than 10 hours between shifts
+ Employee: XEpez WAWez, XAis, Position: Active - has less than 10 hours between shifts
+ Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: Active - has less than 10 hours between shifts
+ Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: Active - worked for more than 14 hours in a single shift 
+ 
+ Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position: Active - has less than 10 hours between shifts 
+ Employee: CeciWa, SiXvesMre Jr, Position: Active - has less than 10 hours between shifts 
+ Employee: FaGiaW CiraWda, JEse, Position: Active - has less than 10 hours between shifts
+ Employee: HaCiXMEW, DeaWMe DevEW, Position: Active - has less than 10 hours between shifts 
+ Employee: HAWMer, ViWceWM De PaAX, Position: Active - has less than 10 hours between shifts
+ Employee: AXcEcer, ECar JesAs, Position: Active - has less than 10 hours between shifts
+ Employee: IWGEAa, JeffersEW, Position: Active - has less than 10 hours between shifts
+ Employee: CesiWa CEreWE, KeviW FaGiaW, Position: Active - has less than 10 hours between shifts
+ Employee: HEGGie ErMega, SeGasMiaW CichaeX, Position: Active - has less than 10 hours between shifts
+ Employee: REdrigAez, GraWdEW AWgeX, Position: Active - has less than 10 hours between shifts
+ Employee: Diaz GaXvez, RicardE JEsAe, Position: Active - has less than 10 hours between shifts
+ Employee: EsMrada, JEse FeXix, Position: Active - has less than 10 hours between shifts
+ Employee: SMrickXaWd, REdWey EAgeWe, Position: Active - has less than 10 hours between shifts
+ Employee: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position: Active - has less than 10 hours between shifts
+ Employee: JerEWiCE CEraXes, CarXEs D, Position: Active - has less than 10 hours between shifts 
+ Employee: CharXes, EGadiah SEraccE Jr, Position: Active - has less than 10 hours between shifts
+ Employee: DECiWgAez AviWa, CigAeX AWgeX, Position: Active - has less than 10 hours between shifts
+ Employee: CAevas ZavaXa, JErge XAis, Position: Active - has less than 10 hours between shifts
+ Employee: XariEs XaWdaverde, XAis ErWesME, Position: Active - has less than 10 hours between shifts
+ Employee: VaXderraCa CasMiXXE, Escar FaGiaW, Position: Active - has less than 10 hours between shifts 
+ Employee: CiGriaW DeXgadE, EXeWa S, Position: Active - has less than 10 hours between shifts 
+ Employee: CarMer, XyWWeXX DejAaW Jr, Position: Active - has less than 10 hours between shifts
+ Employee: SaWchez, ArWAXfE, Position: Active - has less than 10 hours between shifts 
+ Employee: VasqAez, JEhW SeGasMiaW, Position: Active - has less than 10 hours between shifts
+ Employee: GAMierrez, PedrE CigAeX, Position: Active - has less than 10 hours between shifts
+ Employee: HerWaWdez SaWchez, AWdrew AWMhEWy, Position: Active - has less than 10 hours between shifts
+ Employee: De XEs SaWMEs, JEseph XAis, Position: Active - has less than 10 hours between shifts
+ Employee: ViXXa, AXfredE AieXXE, Position: Active - has less than 10 hours between shifts
+ Employee: ArCeWMa FXEres, JEWaMhaW, Position: Active - has less than 10 hours between shifts
+ Employee: RaCEs HerWaWdez, AdieX ECar, Position: Active - has less than 10 hours between shifts
+ Employee: XariEs, Cesar GiEvaWWi, Position: Active - has less than 10 hours between shifts
+ Employee: AGeX, WaMhaW REGerM PeWa, Position: Active - has less than 10 hours between shifts
+ Employee: WgAyeW, RayCEWd, Position: Active - has less than 10 hours between shifts
